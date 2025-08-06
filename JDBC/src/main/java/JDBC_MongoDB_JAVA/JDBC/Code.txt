@@ -1,0 +1,4 @@
+mvn spring-boot:run // to run the application
+mvn spring-boot:stop // to stop the application
+mvn clean package // to build the application
+mvn package -DskipTests // to build the application without running tests
